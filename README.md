@@ -1,4 +1,6 @@
 Live Link:-https://a-iimage-detector-react-ixna1jn3r-rulerds-projects.vercel.app/
+<img width="1366" height="768" alt="Screenshot_2025-11-05_08_28_12" src="https://github.com/user-attachments/assets/f15f5384-736d-4d08-bc1d-919ae8397e40" />
+
 ## 🧠 Project Description
 
 This project is an **AI-powered Image Object Detector** built using **React** and **TensorFlow’s COCO-SSD model**.
